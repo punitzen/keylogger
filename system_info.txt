@@ -1,0 +1,6 @@
+Public IP Address: <redacted>
+Processor: <redacted>
+System: Windows <redacted>
+Machine: <redacted>
+Hostname: punitzen
+Private IP: <redacted>
